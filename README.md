@@ -1,10 +1,10 @@
-<h1 align="left">Olá eu sou a Camila Gonçalves - Desenvolvedora Web Full Stack 🚀</h1>
+<h1 align="left">Olá eu sou a Camila - Desenvolvedora Web Full Stack 🚀</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamilGon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" lenght="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilGon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=radical&hide_border=true&order=1" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CamilGon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilGon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=radical&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -49,14 +49,5 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/CamilGon/CamilGon/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
