@@ -47,7 +47,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="29" alt="ubuntu logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/CamilGon/CamilGon/output/snake.svg" alt="Snake animation" />
 
