@@ -1,4 +1,6 @@
-## Olá eu sou a Camila Gonçalves - Desenvolvedora Web Full Stack 🚀
+<h1 align="left">Olá eu sou a Camila Gonçalves - Desenvolvedora Web Full Stack 🚀</h1>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CamilGon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
@@ -6,7 +8,6 @@
 </div>
 
 ###
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
